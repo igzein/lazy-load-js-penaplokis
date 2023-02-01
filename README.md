@@ -1,1 +1,1 @@
-# lazy-load-js-penaplokis
+#lisensi
